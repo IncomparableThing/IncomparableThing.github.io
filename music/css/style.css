@@ -1,0 +1,19 @@
+.music_body{
+    /* background-color: pink; */
+    display: flex;
+}
+
+
+.big_div{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.big_div p{
+    font-size: 20px;
+    line-height: 60px;
+}
+audio{
+    height: 60px;
+}
