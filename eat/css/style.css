@@ -1,0 +1,22 @@
+/* #bodybj{
+    background: url(img/2.jpeg) no-repeat center top;
+} */
+#box{
+    margin: auto;
+    width: 660px;
+    height: 94px;
+    font-size: 66px;
+    color: darkblue;
+    text-align: center;
+    margin-top: 180px;
+}
+#bt{
+    width: 12.5rem;
+    font-size: 1.875rem;
+    color: #000;
+    margin: auto;
+    margin-top: 90px;
+    text-align: center;
+    cursor: pointer;
+    background-color: darkgray;
+}
