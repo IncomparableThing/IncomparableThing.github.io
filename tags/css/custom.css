@@ -43,8 +43,3 @@ left: -125px;
 [data-theme="dark"] #page-header::before {
   background: transparent !important;
 }
-
-.site-page span{
-  font-size: 1.3em;
-  
-}
